@@ -1,0 +1,6 @@
+<?php
+echo "";
+?>
+<?= "tag curta" ?>
+<?php
+// echo "comentario"
